@@ -12,3 +12,15 @@ Variation 2
 [Functional] Once a ball color is detected, the application shall ignore that color ball for the remainder of the program.
 
 
+Constraints:
+Must work in Python on a Raspberry Pi platform. 
+Must have proper equipment to set up course for the car
+
+Stakeholders:
+Mercer staff
+Staff, like professors or maintenance, should be able to use our product. Mercer staff would be looking for more details and testing the extent of A.I. image recognition system, so they should be considered tech savvy. We should expect them to be critical of the system and be able to give substantial feedback on our product, ranging from code to quality control.
+Mercer students
+Students at Mercer are also very good at using technology and adapting to new products. They would be a very good type of user to test the product on and interview, however, we should not expect them to be as critical as professors may be simply because of a lack of experience.
+Possible guests
+This is a category of people in-between students and staff. They will most likely be not tech savvy and therefore even more casual at using our product than students.
+
