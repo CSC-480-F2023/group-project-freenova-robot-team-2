@@ -2,20 +2,13 @@
 
 ### [Condition] [Subject] [Action] [Object] [Constraint]
 
-EXAMPLE: When signal x is received [Condition], the system [Subject] shall set [Action] the signal x received bit [Object] within 2 seconds [Constraint].
-
 Or
 
 ### [Condition] [Action or Constraint] [Value]
 
-EXAMPLE: At sea state 1 [Condition], the Radar System shall detect targets at ranges out to [Action or Constraint] 100 nautical miles [Value].
-
 Or
 
 ### [Subject] [Action] [Value]
-
-EXAMPLE: The Invoice System [Subject] shall display pending customer invoices [Action] in ascending order [Value] in which invoices are to be paid.
-Gather all the feature requirement definitions your team has created into a single document. This document can be as simple as a markdown file that references each of the requirements, stakeholders, and constraints to as formal as a Software Requirements Specification document.
 
 # Requirements: 
 
