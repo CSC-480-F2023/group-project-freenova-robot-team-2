@@ -23,7 +23,9 @@ Variation 2:
 
 Constraints:
 Must work in Python on a Raspberry Pi platform. 
-Must have proper equipment to set up course for the car
+Must have proper equipment(tape, balls) to set up course for the car
+Must have proper equipment(cameras, wheels) for software to work properly. 
+
 
 Stakeholders:
 Mercer staff
