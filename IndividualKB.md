@@ -2,9 +2,11 @@ I will work on the following requirements
 
 [Functional]The application will use a provided sample Python client and server code for implementing line tracking, object avoidance, face tracking, LEDs, and other features. 
 [Functional]TThe application will utilize a camera attachment, an infrared sensor, an ultrasound sensor, and other robotic parts to navigate an obstacle course. 
+
 Variation 1 
 [Functional] Navigate a course by utilizing the infrared sensor to perform boundary detection and stay within the course (Note: boundary detection and not line tracking)
 [Functional] The car shall stop when the ultrasonic sensor detects an object which can be placed at the end of the track.
+
 Variation 2 
 [Functional] The car needs to be able to detect a ball within one foot. 
 [Non- Functional] The application shall determine the color of the ball and change the vehicle LEDs to match the color of the ball. 
