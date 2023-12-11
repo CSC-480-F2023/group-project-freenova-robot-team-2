@@ -1,0 +1,36 @@
+
+Freenova Robot Team 2
+Chidera Muojeke
+Katie Belle Duke
+Jackson Crowley
+12/10/2023
+Version 1.0.0
+
+Dictionary
+AI - Artificial Intelligence
+YOLO - You Only Look Once
+Python - Programming Language
+
+Document’s Purpose
+Overview of the curated process the Freenova Robot Project has gone through so far, as well as providing feedback and examples to those who may glean the information we procured and the product we delivered.  
+
+Project Scope
+The scope of our project goes as far as training an existing AI framework while also providing an obstacle course for the robot model. This project aims to create a Freenova Smart Car that uses a Python client and server code for line tracking, object avoidance, face tracking, LEDs, and finally, a trainable learning algorithm.
+
+References
+402 SWEG Freenove Smart Car Project Requirements
+
+Constraints
+Must work in Python on a Raspberry Pi platform. It must also use A.I. to scan images and machine learning necessary to detect balls within its boundaries. Must have proper equipment to set up the course for the car.
+
+Design
+The design will feature a Freenova Smart Car that utilizes a camera attachment, an infrared sensor, an ultrasound sensor, and other robotic parts to navigate an obstacle course. It will also use a Raspberry Pi for several functions. 
+
+System
+The system developed for this project involves Raspberry Pi technology, a computer capable of being modified with other programming languages. In this project, we decided to use Python. The AI detection model will use YOLO, which uses real-time object detection and is a great contender with the programming language Python3 because of their snappy yet intuitive design methods. 
+
+Goals
+We aim to train an existing AI framework to detect and recognize real-world objects in real time. This achievement would change how we interpret existing AI technologies today and lead to further innovation in this field.
+
+Approval from Dr. Allen and Professor Munday.
+
